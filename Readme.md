@@ -47,7 +47,7 @@
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
+## SUPPORT ME AND INFINITY | DEVELOP & GAMING
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
