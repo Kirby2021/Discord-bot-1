@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/Tomato6966/v13-music-bot"
+    "url": "https://github.com/Deadpool296/Discord-bot"
   },
   "keywords": [
     "Music",
@@ -19,7 +19,7 @@
     "js",
     "nodejs"
   ],
-  "author": "Tomato6966",
+  "author": "Mr_Deadpool#7518",
   "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
